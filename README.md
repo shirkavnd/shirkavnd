@@ -1,5 +1,7 @@
 # 💫 About Me:
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/SRBIAU_logo.png" height=50 width=50>
+<img src="https://media.licdn.com/dms/image/v2/D4D0BAQFM6OElOGECwQ/company-logo_200_200/B4DZm1QBp0JIAI-/0/1759682501968/imam_musa_sadr_exemplary_public_high_school_logo?e=1765411200&v=beta&t=CeUwIP3YHgKpNMxCG_V56q40Zjl2dSFAqsNkVUuK28s"  height=50 width=50>
+Mathematics-Physics Diploma
 Computer Engineering Student at SRBIAU
 
 
