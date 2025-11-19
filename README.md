@@ -1,5 +1,5 @@
 # 🎓 Education:
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/SRBIAU_logo.png" height=50 width=50 style="vertical-align: middle;">Computer Engineering Student at SRBIAU
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/SRBIAU_logo.png" height=50 width=50 style="vertical-align: middle">Computer Engineering Student at SRBIAU
 
 
 
