@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/SRBIAU_logo.png">
 Computer Engineering Student at SRBIAU
 
 
